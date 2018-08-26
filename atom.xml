@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Beeeの零碎事</title>
+  
+  <subtitle>Just so so~</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.imbeee.com/"/>
+  <updated>2017-12-24T17:45:46.000Z</updated>
+  <id>https://www.imbeee.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>linux反弹完全交互shell</title>
+    <link href="https://www.imbeee.com/2017/12/24/full-functional-reverse-shell/"/>
+    <id>https://www.imbeee.com/2017/12/24/full-functional-reverse-shell/</id>
+    <published>2017-12-24T14:43:05.000Z</published>
+    <updated>2017-12-24T17:45:46.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在渗透测试中经常需要用到反弹shell，而一般反弹回来的shell通常无法完成某些交互操作，如vi编辑文件等。这里先占个坑，简单把反弹一个完全交互shell的过程写出来，回头有机会再补充分析。&lt;/p&gt;
+&lt;figure class=&quot;highlight
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Pentest" scheme="https://www.imbeee.com/tags/Pentest/"/>
+    
+      <category term="Linux" scheme="https://www.imbeee.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Proxmox VE搭建Homelab实验环境</title>
+    <link href="https://www.imbeee.com/2017/12/16/Proxmox-VE-Homelab/"/>
+    <id>https://www.imbeee.com/2017/12/16/Proxmox-VE-Homelab/</id>
+    <published>2017-12-16T07:55:00.000Z</published>
+    <updated>2017-12-24T18:50:53.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;最近经常需要搭建实验环境做测试，重复的系统部署工作无疑是枯燥的体力活。DarkRay大师先前也分享过基于ESXi虚拟化的Homelab方案，详见&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Homelab" scheme="https://www.imbeee.com/tags/Homelab/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>给vps挂载iso安装系统并加密系统分区</title>
+    <link href="https://www.imbeee.com/2017/12/10/install-pure-system-on-vps-and-encrypt-it/"/>
+    <id>https://www.imbeee.com/2017/12/10/install-pure-system-on-vps-and-encrypt-it/</id>
+    <published>2017-12-10T06:40:53.000Z</published>
+    <updated>2017-12-10T06:43:56.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;部分VPS提供商的控制面板仅提供简单的重装系统功能，只能从其提供的有限的iso中选择安装，并且无法验证iso的完整性，或者根本不提供iso挂载功能，直接使用模板重置vps。因此我们无法安装自己所需的系统和对vps系统进行全盘加密。这篇文章简单记录一下如何在vps上挂载自定义
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Linux" scheme="https://www.imbeee.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ISG2015-RPG-400-Writeup</title>
+    <link href="https://www.imbeee.com/2016/01/11/ISG2015-RPG-400-Writeup/"/>
+    <id>https://www.imbeee.com/2016/01/11/ISG2015-RPG-400-Writeup/</id>
+    <published>2016-01-11T15:18:06.000Z</published>
+    <updated>2016-12-09T16:33:17.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;该题是由rpgmakerxp做的一个小迷宫。解压后一看，根目录下有个&lt;code&gt;config.txt&lt;/code&gt;，里面为&lt;code&gt;202.120.7.132:9999&lt;/code&gt;，初步判断游戏跟服务器有交互。运行游戏，方向键移动角色，wireshark确实能抓取到与服
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Writeup" scheme="https://www.imbeee.com/tags/Writeup/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>TMB100E YunOS 2.1.0-R-20141214.1729 root步骤（TTL法，需拆机）</title>
+    <link href="https://www.imbeee.com/2016/01/10/rooting-TMB100E-with-serialport/"/>
+    <id>https://www.imbeee.com/2016/01/10/rooting-TMB100E-with-serialport/</id>
+    <published>2016-01-09T16:49:31.000Z</published>
+    <updated>2016-01-09T17:02:24.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;这个盒子是Amlogic 8726MX方案的，有1G
+        
+      
+    
+    </summary>
+    
+    
+      <category term="DIY" scheme="https://www.imbeee.com/tags/DIY/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>reGeorgSocksProxy修改版-可指定Cookie</title>
+    <link href="https://www.imbeee.com/2016/01/06/reGeorgSocksProxy-with-single-session-mode/"/>
+    <id>https://www.imbeee.com/2016/01/06/reGeorgSocksProxy-with-single-session-mode/</id>
+    <published>2016-01-06T12:32:44.000Z</published>
+    <updated>2016-01-06T14:25:47.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;reGeorgSocksProxy修改版&quot;&gt;&lt;a href=&quot;#reGeorgSocksProxy修改版&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Pentest" scheme="https://www.imbeee.com/tags/Pentest/"/>
+    
+      <category term="Tool" scheme="https://www.imbeee.com/tags/Tool/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>某些情况下WebLogic可用的菜刀</title>
+    <link href="https://www.imbeee.com/2016/01/03/WebLogic-caidao-fixed/"/>
+    <id>https://www.imbeee.com/2016/01/03/WebLogic-caidao-fixed/</id>
+    <published>2016-01-03T10:10:49.000Z</published>
+    <updated>2016-01-06T14:26:12.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;有时候在一些特定的weblogic环境下，菜刀会有一个奇怪的问题，就是文件管理用不了，但是可以执行命令。&lt;br&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Pentest" scheme="https://www.imbeee.com/tags/Pentest/"/>
+    
+      <category term="Tool" scheme="https://www.imbeee.com/tags/Tool/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>WebLogic密码解密工具</title>
+    <link href="https://www.imbeee.com/2016/01/03/WebLogicPasswordDecryptor-GUI/"/>
+    <id>https://www.imbeee.com/2016/01/03/WebLogicPasswordDecryptor-GUI/</id>
+    <published>2016-01-03T04:45:53.000Z</published>
+    <updated>2016-01-06T14:26:08.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;一次内网渗透测试中遇到不少weblogic容器，而网上流传的weblogic密码解密方法、工具等都都觉得不太方便，事后抽空查资料了解weblogic的加密算法，并参考其中一份资料，做了一份GUI的解密工具，共享出来，有需要的带走。&lt;br&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Pentest" scheme="https://www.imbeee.com/tags/Pentest/"/>
+    
+      <category term="Tool" scheme="https://www.imbeee.com/tags/Tool/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>联想newifi mini上部署aria2</title>
+    <link href="https://www.imbeee.com/2015/04/28/install-aria2-on-newifi-mini/"/>
+    <id>https://www.imbeee.com/2015/04/28/install-aria2-on-newifi-mini/</id>
+    <published>2015-04-28T12:52:03.000Z</published>
+    <updated>2016-01-11T15:16:15.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h2&gt;&lt;p&gt;之前学校宿舍一直在用硬改16M flash/64M RAM + USB的TP-Link wr841n
+        
+      
+    
+    </summary>
+    
+    
+      <category term="router" scheme="https://www.imbeee.com/tags/router/"/>
+    
+      <category term="newifi mini" scheme="https://www.imbeee.com/tags/newifi-mini/"/>
+    
+      <category term="DIY" scheme="https://www.imbeee.com/tags/DIY/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DUTCTF-2015 正式比赛Writeup</title>
+    <link href="https://www.imbeee.com/2015/04/26/DUTCTF-2015-final/"/>
+    <id>https://www.imbeee.com/2015/04/26/DUTCTF-2015-final/</id>
+    <published>2015-04-26T15:14:41.000Z</published>
+    <updated>2016-01-03T05:50:18.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;DUTCTF-2015-Writeup&quot;&gt;&lt;a href=&quot;#DUTCTF-2015-Writeup&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Writeup" scheme="https://www.imbeee.com/tags/Writeup/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DUTCTF热身赛Writeup</title>
+    <link href="https://www.imbeee.com/2015/04/15/dutctf-writeup/"/>
+    <id>https://www.imbeee.com/2015/04/15/dutctf-writeup/</id>
+    <published>2015-04-15T09:28:37.000Z</published>
+    <updated>2016-01-03T05:50:40.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;DUTCTF热身赛Writeup&quot;&gt;&lt;a href=&quot;#DUTCTF热身赛Writeup&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Writeup" scheme="https://www.imbeee.com/tags/Writeup/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Flash幻灯图片广告（新闻）管理系统漏洞</title>
+    <link href="https://www.imbeee.com/2015/04/15/flashad-1.0-vulnerabilities/"/>
+    <id>https://www.imbeee.com/2015/04/15/flashad-1.0-vulnerabilities/</id>
+    <published>2015-04-15T07:32:28.000Z</published>
+    <updated>2016-01-03T05:48:54.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;一次渗透中扫到了一套程序：幻灯图片广告（新闻）管理系统，百度找了下有源码，下载回来分析，发现一个后台拿webshell的方法和一个xss，记录一下。&lt;/p&gt;
+&lt;h2 id=&quot;程序介绍&quot;&gt;&lt;a href=&quot;#程序介绍&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ALICTF 2015 初赛Writeup</title>
+    <link href="https://www.imbeee.com/2015/03/30/ALICTF-2015-Writeup/"/>
+    <id>https://www.imbeee.com/2015/03/30/ALICTF-2015-Writeup/</id>
+    <published>2015-03-30T09:48:34.000Z</published>
+    <updated>2016-01-03T05:49:22.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;2014-SCTF-初赛Writeup&quot;&gt;&lt;a href=&quot;#2014-SCTF-初赛Writeup&quot; class=&quot;headerlink&quot; title=&quot;2014 SCTF 初赛Writeup&quot;&gt;&lt;/a&gt;2014 SCTF
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Writeup" scheme="https://www.imbeee.com/tags/Writeup/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SCTF 2014 初赛Writeup</title>
+    <link href="https://www.imbeee.com/2014/12/11/SCTF-2014-Writeup/"/>
+    <id>https://www.imbeee.com/2014/12/11/SCTF-2014-Writeup/</id>
+    <published>2014-12-11T15:06:02.000Z</published>
+    <updated>2016-01-03T05:51:13.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;2014-SCTF-初赛Writeup&quot;&gt;&lt;a href=&quot;#2014-SCTF-初赛Writeup&quot; class=&quot;headerlink&quot; title=&quot;2014 SCTF 初赛Writeup&quot;&gt;&lt;/a&gt;2014 SCTF
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Writeup" scheme="https://www.imbeee.com/tags/Writeup/"/>
+    
+  </entry>
+  
+</feed>
