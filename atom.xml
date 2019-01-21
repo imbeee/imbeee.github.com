@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.imbeee.com/"/>
-  <updated>2019-01-09T10:03:17.834Z</updated>
+  <updated>2019-01-21T11:11:14.877Z</updated>
   <id>https://www.imbeee.com/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>awvs脚本解密工具</title>
+    <link href="https://www.imbeee.com/2019/01/21/awvs-script-decrypt/"/>
+    <id>https://www.imbeee.com/2019/01/21/awvs-script-decrypt/</id>
+    <published>2019-01-21T11:00:00.000Z</published>
+    <updated>2019-01-21T11:11:14.877Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;2017年年底研究wvs脚本的时候将相关的程序逆了一下，把加密密钥搞出来了，用的twofish算法。当时也准备把分析的过程完整的记录一下，后面因为各种事情忙而搁置了，现在很多细节也记不清楚，只能直接把程序发上来了。&lt;/p&gt;
+&lt;p&gt;因为能找到的twofish算法python库
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Pentest" scheme="https://www.imbeee.com/tags/Pentest/"/>
+    
+      <category term="Tool" scheme="https://www.imbeee.com/tags/Tool/"/>
+    
+  </entry>
+  
+  <entry>
     <title>php-fpm环境的一种后门实现</title>
     <link href="https://www.imbeee.com/2018/11/01/yet-another-php-backdoor-with-nginx-phpfpm/"/>
     <id>https://www.imbeee.com/2018/11/01/yet-another-php-backdoor-with-nginx-phpfpm/</id>
     <published>2018-11-01T06:30:38.000Z</published>
-    <updated>2019-01-09T10:03:17.834Z</updated>
+    <updated>2019-01-09T10:03:17.833Z</updated>
     
     <summary type="html">
     
@@ -100,7 +127,7 @@
     <link href="https://www.imbeee.com/2017/12/10/install-pure-system-on-vps-and-encrypt-it/"/>
     <id>https://www.imbeee.com/2017/12/10/install-pure-system-on-vps-and-encrypt-it/</id>
     <published>2017-12-10T06:40:53.000Z</published>
-    <updated>2018-12-05T10:37:38.515Z</updated>
+    <updated>2018-12-05T10:37:38.514Z</updated>
     
     <summary type="html">
     
