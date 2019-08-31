@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.imbeee.com/"/>
-  <updated>2019-01-21T11:11:14.877Z</updated>
+  <updated>2019-08-31T16:40:48.481Z</updated>
   <id>https://www.imbeee.com/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>卸载编译到内核中的m25p80驱动</title>
+    <link href="https://www.imbeee.com/2019/09/01/unload-built-in-m25p80-driver/"/>
+    <id>https://www.imbeee.com/2019/09/01/unload-built-in-m25p80-driver/</id>
+    <published>2019-08-31T16:30:00.000Z</published>
+    <updated>2019-08-31T16:40:48.481Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;最近在测试某些嵌入式设备，在研究过程中需要在系统启动后替换m25p80驱动以达到特定效果。而该设备固件将m25p80直接编译到内核中，并非以LKM的形式存在，无法使用rmmod卸载。&lt;/p&gt;
+&lt;p&gt;查阅资料后发现,内核在处理spi相关驱动的时候，使用&lt;code&gt;spi_re
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Linux" scheme="https://www.imbeee.com/tags/Linux/"/>
+    
+      <category term="Embedded" scheme="https://www.imbeee.com/tags/Embedded/"/>
+    
+      <category term="ARM" scheme="https://www.imbeee.com/tags/ARM/"/>
+    
+      <category term="LKM" scheme="https://www.imbeee.com/tags/LKM/"/>
+    
+  </entry>
   
   <entry>
     <title>awvs脚本解密工具</title>
