@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.imbeee.com/"/>
-  <updated>2019-08-31T16:40:48.481Z</updated>
+  <updated>2019-12-08T05:01:38.642Z</updated>
   <id>https://www.imbeee.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>给vps挂载iso安装系统并加密系统分区</title>
+    <link href="https://www.imbeee.com/2019/12/07/install-pure-system-on-vps-and-encrypt-it/"/>
+    <id>https://www.imbeee.com/2019/12/07/install-pure-system-on-vps-and-encrypt-it/</id>
+    <published>2019-12-07T06:40:53.000Z</published>
+    <updated>2019-12-08T05:01:38.642Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;部分VPS提供商的控制面板仅提供简单的重装系统功能，只能从其提供的有限的iso中选择安装，并且无法验证iso的完整性，或者根本不提供iso挂载功能，直接使用模板重置vps。因此我们无法安装自己所需的系统和对vps系统进行全盘加密。这篇文章简单记录一下如何在vps上挂载自定义
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Linux" scheme="https://www.imbeee.com/tags/Linux/"/>
+    
+  </entry>
   
   <entry>
     <title>卸载编译到内核中的m25p80驱动</title>
@@ -123,9 +147,9 @@
     </summary>
     
     
-      <category term="Pentest" scheme="https://www.imbeee.com/tags/Pentest/"/>
-    
       <category term="Linux" scheme="https://www.imbeee.com/tags/Linux/"/>
+    
+      <category term="Pentest" scheme="https://www.imbeee.com/tags/Pentest/"/>
     
   </entry>
   
@@ -150,30 +174,6 @@
     
     
       <category term="Homelab" scheme="https://www.imbeee.com/tags/Homelab/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>给vps挂载iso安装系统并加密系统分区</title>
-    <link href="https://www.imbeee.com/2017/12/10/install-pure-system-on-vps-and-encrypt-it/"/>
-    <id>https://www.imbeee.com/2017/12/10/install-pure-system-on-vps-and-encrypt-it/</id>
-    <published>2017-12-10T06:40:53.000Z</published>
-    <updated>2018-12-05T10:37:38.514Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;部分VPS提供商的控制面板仅提供简单的重装系统功能，只能从其提供的有限的iso中选择安装，并且无法验证iso的完整性，或者根本不提供iso挂载功能，直接使用模板重置vps。因此我们无法安装自己所需的系统和对vps系统进行全盘加密。这篇文章简单记录一下如何在vps上挂载自定义
-        
-      
-    
-    </summary>
-    
-    
-      <category term="Linux" scheme="https://www.imbeee.com/tags/Linux/"/>
     
   </entry>
   
