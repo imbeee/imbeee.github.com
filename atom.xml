@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.imbeee.com/"/>
-  <updated>2019-12-08T05:01:38.642Z</updated>
+  <updated>2020-06-12T14:34:35.106Z</updated>
   <id>https://www.imbeee.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://www.imbeee.com/2019/12/07/install-pure-system-on-vps-and-encrypt-it/"/>
     <id>https://www.imbeee.com/2019/12/07/install-pure-system-on-vps-and-encrypt-it/</id>
     <published>2019-12-07T06:40:53.000Z</published>
-    <updated>2019-12-08T05:01:38.642Z</updated>
+    <updated>2020-06-12T14:34:35.106Z</updated>
     
     <summary type="html">
     
@@ -76,7 +76,7 @@
     <link href="https://www.imbeee.com/2019/01/21/awvs-script-decrypt/"/>
     <id>https://www.imbeee.com/2019/01/21/awvs-script-decrypt/</id>
     <published>2019-01-21T11:00:00.000Z</published>
-    <updated>2019-01-21T11:11:14.877Z</updated>
+    <updated>2020-06-12T14:34:35.110Z</updated>
     
     <summary type="html">
     
@@ -103,7 +103,7 @@
     <link href="https://www.imbeee.com/2018/11/01/yet-another-php-backdoor-with-nginx-phpfpm/"/>
     <id>https://www.imbeee.com/2018/11/01/yet-another-php-backdoor-with-nginx-phpfpm/</id>
     <published>2018-11-01T06:30:38.000Z</published>
-    <updated>2019-01-09T10:03:17.833Z</updated>
+    <updated>2020-06-12T14:34:35.112Z</updated>
     
     <summary type="html">
     
@@ -147,9 +147,9 @@
     </summary>
     
     
-      <category term="Linux" scheme="https://www.imbeee.com/tags/Linux/"/>
-    
       <category term="Pentest" scheme="https://www.imbeee.com/tags/Pentest/"/>
+    
+      <category term="Linux" scheme="https://www.imbeee.com/tags/Linux/"/>
     
   </entry>
   
@@ -158,7 +158,7 @@
     <link href="https://www.imbeee.com/2017/12/16/Proxmox-VE-Homelab/"/>
     <id>https://www.imbeee.com/2017/12/16/Proxmox-VE-Homelab/</id>
     <published>2017-12-16T07:55:00.000Z</published>
-    <updated>2017-12-24T18:50:53.000Z</updated>
+    <updated>2020-06-12T14:34:35.108Z</updated>
     
     <summary type="html">
     
@@ -233,7 +233,7 @@
     <link href="https://www.imbeee.com/2016/01/03/WebLogicPasswordDecryptor-GUI/"/>
     <id>https://www.imbeee.com/2016/01/03/WebLogicPasswordDecryptor-GUI/</id>
     <published>2016-01-03T04:45:53.000Z</published>
-    <updated>2018-12-05T10:37:35.593Z</updated>
+    <updated>2020-06-12T14:34:35.111Z</updated>
     
     <summary type="html">
     
@@ -259,7 +259,7 @@
     <link href="https://www.imbeee.com/2015/04/26/DUTCTF-2015-final/"/>
     <id>https://www.imbeee.com/2015/04/26/DUTCTF-2015-final/</id>
     <published>2015-04-26T15:14:41.000Z</published>
-    <updated>2018-12-05T10:37:22.884Z</updated>
+    <updated>2020-06-12T14:34:35.106Z</updated>
     
     <summary type="html">
     
@@ -285,7 +285,7 @@
     <link href="https://www.imbeee.com/2015/04/15/dutctf-writeup/"/>
     <id>https://www.imbeee.com/2015/04/15/dutctf-writeup/</id>
     <published>2015-04-15T09:28:37.000Z</published>
-    <updated>2018-12-05T10:41:43.093Z</updated>
+    <updated>2020-06-12T14:34:35.107Z</updated>
     
     <summary type="html">
     
@@ -310,7 +310,7 @@
     <link href="https://www.imbeee.com/2015/03/30/ALICTF-2015-Writeup/"/>
     <id>https://www.imbeee.com/2015/03/30/ALICTF-2015-Writeup/</id>
     <published>2015-03-30T09:48:34.000Z</published>
-    <updated>2018-12-05T10:37:25.137Z</updated>
+    <updated>2020-06-12T14:34:35.110Z</updated>
     
     <summary type="html">
     
@@ -335,7 +335,7 @@
     <link href="https://www.imbeee.com/2014/12/11/SCTF-2014-Writeup/"/>
     <id>https://www.imbeee.com/2014/12/11/SCTF-2014-Writeup/</id>
     <published>2014-12-11T15:06:02.000Z</published>
-    <updated>2018-12-05T10:37:31.249Z</updated>
+    <updated>2020-06-12T14:34:35.109Z</updated>
     
     <summary type="html">
     
